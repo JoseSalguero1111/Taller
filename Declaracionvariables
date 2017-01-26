@@ -1,0 +1,20 @@
+/*Diseñador.....Delay_us*/
+
+bit a;
+char b = 'k';
+char x = 0b01111000; 
+int d = 123;
+int e = -43;
+unsigned int f = 456;
+unsigned int g = -14;//esto no se puede por que es de tipo de dato
+short h = 0x43;
+unsigned short i = 0x16;
+long j = 1436789;
+unsigned long k = 3753159;
+
+/*Todas estas variables se conocen como variables goblales:
+
+Las variables globales son aquellas que existen en TODO
+el programa, es la misma en cada funcion o subrutina*/
+
+void main() 
